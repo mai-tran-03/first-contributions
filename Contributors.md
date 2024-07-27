@@ -7,7 +7,6 @@
 -[Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
--[Mai Tran]([https://github.com/mai-tran-03](url)) **first contributions**
 ### Paul Quito
 -[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
@@ -52,6 +51,7 @@ Abdullah Ansari
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - Hasmeet Khatri: 1st github contribution.
+- [Mai Tran]([https://github.com/mai-tran-03](url)) **first contributions**
 - Talles Cardoso
 - Jeferson Ramos Fonseca
 - malka
