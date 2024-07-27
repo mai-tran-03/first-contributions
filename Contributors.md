@@ -7,6 +7,7 @@
 -[Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
+-[Mai Tran]([https://github.com/mai-tran-03](url)) **first contributions**
 ### Paul Quito
 -[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
