@@ -51,7 +51,7 @@ Abdullah Ansari
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - Hasmeet Khatri: 1st github contribution.
-- [Mai Tran]([https://github.com/mai-tran-03](url)) **first contributions**
+- [Mai Tran](https://github.com/mai-tran-03) **first contributions**
 - Talles Cardoso
 - Jeferson Ramos Fonseca
 - malka
